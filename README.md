@@ -6,7 +6,7 @@ Personal hacker defaults for macOS environment
 
 Run the following SQL query to reset the root password.
 ```sql
-ALTER USER 'root':'localhost' IDENTIFIED BY 'NewPassword';
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'NewPassword';
 ```
 
 
