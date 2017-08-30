@@ -1,3 +1,6 @@
+# Add bin to PATH
+export PATH=/usr/local/bin:$PATH
+
 # Convenient MySQL CLI aliases
 alias mysql.start="sudo /usr/local/mysql/support-files/mysql.server start"
 alias mysql.stop="sudo /usr/local/mysql/support-files/mysql.server stop"
