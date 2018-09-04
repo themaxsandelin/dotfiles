@@ -1,0 +1,31 @@
+{
+    // Set default syntax to markdown to turn Code into a notepad.
+    "files.defaultLanguage": "markdown",
+
+    "atomKeymap.promptV3Features": true,
+
+    "editor.multiCursorModifier": "ctrlCmd",
+
+    // Set this to false to avoid code automatically formatting your code.
+    "editor.formatOnPaste": false,
+
+    "workbench.startupEditor": "newUntitledFile",
+
+    // "workbench.colorTheme": "One Dark Pro",
+
+    "editor.fontFamily": "Hack",
+
+    "editor.fontSize": 11,
+
+    "editor.lineHeight": 22,
+
+    "window.zoomLevel": 0,
+
+    "extensions.ignoreRecommendations": false,
+
+    "editor.tabSize": 2,
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+
+    "files.maxMemoryForLargeFilesMB": 8192
+}
